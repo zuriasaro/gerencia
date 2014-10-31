@@ -1,0 +1,244 @@
+gerencia
+
+
+OCTSI (Dirección)	Si   O      No    O		
+Aprobaciones
+
+Revisiones
+Versión	Fecha	Autor	Descripción
+			
+			
+			
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+ 
+         Introducción
+
+Antecedentes
+El sistema actualfunciona de la siguiente manera, la encargada de producción tiene impresas las cantidades de productos (carteras, acero, lencería, ropa) donde se especifica  qué cantidad se encuentra de cada uno de estos productos, al momento de utilizar una cantidad de estos productos se tachan con resaltador para poder llevar un control de qué cantidad se ha gastado, lo cual dificulta saber qué cantidad queda de dichos productos al momento de buscar en el almacén( estos se ubican por referencias), para poder saber qué cantidad queda se tiene que hacer la suma buscando en las hojas la cantidades que quedan e irlas sumando desde las hojas. 
+
+
+Identificación del problema
+Las operaciones en el departamento de producción se realizan de forma manual, lo que dificulta que el trabajo sea fluido con los demás departamentos.
+
+
+Justificación
+La razón principal por la cual vamos a realizar este proyecto, es para automatizar dicho proceso que se realizan en el área de producción ya que como se explico anteriormente no existe tal control porque actualmente se lleva de manera manual, y esto hace que se  dificulte el trabajo en todo los departamentos principalmente en el de producción y se hace más lento todos los procesos que se realizan.
+
+
+Propósito
+Proponer un sistema de facturación para el departamento de producción de la empresa DOMATO C.A.
+
+
+Área Beneficiada
+	El proyecto va dirigido específicamente al área de facturación de la empresa Domato C.A, los beneficiados directos de este proyecto son el departamento de producción y facturación de dicha empresa y los beneficiados indirectos seria el personal de trabajo y la gerencia de la empresa.
+
+
+Integración con otro Proyecto Relacionado 
+Por los momentos en la comercializadora Domato no se está realizando otro proyecto. NO APLICA.
+
+			
+			
+
+Beneficios Funcionales
+	Los beneficios que se obtendrán en el área de facturación y producción serán:
+•	Mejor control de producción. 
+•	Reducción de tiempo a la hora de facturar. 
+•	Mayor efectividad en la entrega de las colecciones. 
+•	Mejor control en el área de almacén.
+•	Ahorro de costos de presupuesto.
+ 
+
+Entregable
+•	Se entrega un prototipo del sistema.
+•	Se elaboran un manual se usuario.
+•	Se elabora un  manual del sistema.
+•	Se le dará un adiestramiento al departamento que lo va a ejecutar.
+•	Entrega del sistema.
+
+
+Lugar de Ejecución 
+	El proyecto se ejecutara en la empresa Domato C.A en el área de facturación ubicado en Barquisimeto estado Lara.
+
+
+Costo estimado del proyecto 
+
+Recurso humano 
+Recurso	                       Capacidad Máxima  Cantidad	Tasa estándar	Tiempo de Desempeño	Costos / Recursos
+Coordinador TI	                     20  	    1	          50/hrs	     3000	            Bs F 1000
+Comité técnico	                     40	            1	          50/hrs	     6000	            Bs F 2000
+Comité Operativo	             40	            1	          50/hrs	     6000	            Bs F 2000
+Comité administrativo y financiero   20             1	          50/hrs	     3000	            Bs F 1000
+Plataforma tecnológica 	             40	            1		  50/hrs             4500	            Bs F 2000
+                                                                                      Total aproximado 	Bs F 8000
+
+
+Equipos 
+Recurso	Característica	Costo estimado 
+Dvd	Dispositivo de almacenamiento portable	Bs F 40
+		
+Inversión aproximada en equipos 	
+
+
+Hardware
+Cantidad	Descripción	Característica 	Costo estimado 
+No aplica 	
+Inversión aproximada en recursos de hardware 	
+
+
+Software 
+Software 	Costo Estimado 
+Gestor de base de datos WanpServer	
+Java 7.1 	
+Inversión aproximada en Recurso de software 	Bs F 1500
+
+
+
+
+Adiestramiento y documentación
+Recurso	Característica 	Costo estimado
+Capacitación sobre el manejo del sistema de inventario 	Manejo y uso de las herramientas y funciones que posee el sistema
+Realizar las diferentes pruebas de nivel básico y avanzado del sistema	Bs F1.500
+
+Bs F 1.500
+Inversión aproximada 	Bs F 3.000
+
+
+Ciclo de Vida del Proyecto 
+ 
+
+Estructura del Proyecto
+
+  
+Responsabilidades del proyecto 
+Rol 	                               Responsabilidades	           Nivel de Administración
+Líder del proyecto	              Edison Jose Perdomo Camacaro	Coordinador de TI
+Comité técnico 	                      Zurisaday Asaro	                Líder de proyecto
+Comité operativo	              Levis Linares Rosales 	        Líder de proyecto
+Comité administrativo y financiero    Isabela de la Rosa	        Líder de proyecto
+Plataforma tecnológica	              Engelberth Torres 	        Líder de proyecto
+
+
+
+4.7 Recurso Humanos
+Rol	                                                                Nivel Mínimo	                                                                                       Personal
+Realizar reuniones con el personal de la empresa.	Garantizar la disponibilidad del personal, para validar modificaciones y supervisar el sistema.	                    El equipo del proyecto
+Programación	                                        Los requerimientos deben funcionar acorde a las necesidades del personal.	                                    El equipo del proyecto
+Seguridad	                                     Establecer los niveles de seguridad acorde a la plataforma tecnológica, y hacer pruebas de cómo funciona el sistema.   El equipo del proyecto
+Documentación	                                        Documentar todo el trabajo del sistema, por si se quiere actualizar el sistema.                                     El equipo del proyecto
+Adiestrar	                                        Realizar reuniones o talleres para explicar como funciona el sistema, con su manual de usuario	                    El equipo del proyecto
+ 
+5. Administración del Proyecto
+5.1 Objetivos, Metas y Prioridades
+•	Objetivos: Crear un sistema automatizado para el área de la facturación en la comercializadora DOMATO C.A. de Barquisimeto estado Lara.
+•	Metas: Crear de manera eficaz un sistema automatizado para el área de la facturación en la comercializadora DOMATO C.A. de Barquisimeto estado Lara.
+•	Prioridades:
+
+Recurso	                                                                               Actividades
+Dar a conocer las estrategias informativas de las actividades a realizar.	Presentarnos ante la organización.
+
+Repartir encuestas. 
+Uso de la oratoria.	                                                        Recolectar información mediante el uso de encuestas y entrevistas sobre la problemática de la empresa
+
+Uso de la Oratoria
+Uso del Video Beam	                                                        Organizar reuniones donde se le explica a los trabajadores sobre el sistema, y como se utiliza
+
+
+
+5.2 Supuesto, Dependencias y Restricciones
+Supuesto:
+?	La documentación de la empresa será escrita en español.
+?	El personal de la empresa conocen Windows.
+?	El personal conoce la mercancía de la empresa.
+
+
+Dependencias:
+?	Jefe de la Empresa.
+?	El personal de la empresa.
+?	Los Proveedores 
+
+
+Restricciones: 
+?	Nueva tecnología.
+?	Falta de Recurso.
+?	Personal Ineficiente.
+?	Requerimientos Inaccesibles.
+?	Otros.
+
+
+
+5.3 Administración de Riesgo
+
+Riesgos	                                                                       Administración
+Objetivos poco claros	                Los objetivos deben ser claros y concretos, tiene que tener un enunciado claro y determinado, debe ser  con resultados obtenibles en un plazo razonable.
+Falta de interés del cliente	        Mostrándole periódicamente los entregables al cliente para que vea como va quedado el sistema, y haciéndole un prototipo.
+Falta de Presupuesto	                No pasarse del presupuesto acordado con la empresa.
+Falta Personal                   	Buscar personal eficiente y responsable.
+
+5.4 Variables de control y monioreo
+Descripción	            Tipo	                     Mecanismo	                                                                                          Responsable
+Costo	                    Control	   Haciendo un presupuesto, donde se fija hasta donde se va a gastar.	                                                   Comité administrativo y financiero
+Calidad	                    Ambas	   Diagrama de Flujo y Inspección.	                                                                                   Comité Operativo.
+Funcionalidad del Sistema   Monitoreo	   Con el prototipo se puede ver cómo va quedando el sistema y como funcionan las herramientas que contiene el sistema.	   Comité Técnico
+
+
+
+Aspectos Claves a Comunicar
+ASPECTOS A COMUNICAR	          PERIODICIDAD
+Hitos	                           15 días
+Estados del proyecto	           20 días
+Retrasos	                   10 días
+Satisfacción del usuario	   15 días
+
+
+
+Métodos, Herramientas e Insumos
+CANTIDAD	DESCRIPCIÓN	                                                                                        TIPO
+2	   Entrevista realizada al jefe del departamento para conocer mejor el sistema	                                Entrevista
+
+1	   Encuesta realizada a una parte de los usuarios del sistema para conocer el comportamiento del sistema	Encuesta
+
+1	   Para dar a conocer el nuevo funcionamiento del sistema	                                                Adiestramientos
+2	   Documentos físicos y digitales que se entregan para el buen uso del sistema y su soporte 	                Manuales
+1	   Metodología usada para desarrollar el sistema 	                                                        Ciclo de Vida de Desarrollo del Sistema
+
+
+
+Estándares y Procedimientos.
+Se realizo un diagrama de Gantt para llevar el control del proyecto así como sus tiempos estimados de duración diferentes partes en las que se divide el proyecto.
+
+Productos 
+Productos	    FECHA DE CULMINACIÓN	ENTREGABLE
+Visita preliminar   SEMANA    1	                No
+Prototipos	    SEMANAS   5,6,7y8	        Si
+Documentación	    SEMANA    9	                Si    
+Manuales	    SEMANA    9	                Si
+Pruebas  	    SEMANA    9	                Si
+Adiestramiento 	    SEMANA    10	        Si
+Puesta en marcha    SEMANA    11	        Si
+								
+ 
+
+Criterios del cierre del proyecto
+    Criterios
+1.	Adiestramiento
+2.	Realizar pruebas 
+3.	Entrega de manuales 
+4.	Entrega de documentación
+5.	Revisión del proyecto con la directiva de la institución
+6.	Comunicar eficiencia de los recursos
+7.	Prototipos 
+8.	puesta en marcha
+9.	Pruebas
+10.	Declaración del cierre del proyecto
